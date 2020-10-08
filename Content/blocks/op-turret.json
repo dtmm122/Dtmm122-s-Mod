@@ -1,0 +1,29 @@
+{
+"type": "burstTurret",
+"name": "OP turret,
+"description": "a op turret"
+"targetAir": true,
+"targetGround: true,
+"health": 2000,
+"size": 2,
+"inaccuracy": 6,
+"shootType": "flakScrap"
+"reload": 30,
+"shootCone": 26,
+"rotateSpeed": 40,
+"shots": 5,
+"range": 30,
+"burstSpacing": 1,
+"ammo": {
+	"thorium": {
+		"type": "flakBulletType",
+		"exploteRange": 10,
+		"speed": 10,
+		"damage": 50,
+		"bulletWidth": 5,
+		"bulletHeight: 10,
+		"shootEffect": "shootSmall",
+		"smokeEffect": "shootSmallSmoke",
+		"ammoMultiplier": 10,
+	},
+		

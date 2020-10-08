@@ -1,0 +1,9 @@
+{
+name: dtmm122's mod
+displayname: [sky]dtmm[blue]122[]'s mod
+author: dtmm122
+description: This is my first mod.
+version: "5.0"
+minGameVersion: "104.6"
+dependencies: []
+}
